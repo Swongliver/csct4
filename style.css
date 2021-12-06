@@ -1,0 +1,17 @@
+#note{
+    font-size:15px;
+    color:black;
+}
+body{
+    background-image: url("background.jpg");
+
+}
+.btn1{
+width:130px;
+font-size:25px;
+}
+canvas{
+   
+    box-shadow:5px 5px 10px lightskyblue;
+    border:5px solid white;
+}
